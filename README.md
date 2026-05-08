@@ -30,7 +30,7 @@ built in collaboration with a partner.
 
 Tech: TypeScript, Node.js, PostgreSQL, PL/pgSQL, HTML, CSS, JavaScript
 
-*Beyond the above, I've formed parte of several university projects throughout my academic career:
+*Beyond the above, I've been part of several university projects throughout my academic career:
 an Android app for discovering and publishing local events, a web platform for booking trips and
 activities on El Ávila, and various coursework spanning Assembler, Java, Python, React, and other languages.
 Most of this work lives in private or academic repositories or was done locally at a given time.*
